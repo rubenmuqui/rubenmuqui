@@ -25,8 +25,8 @@ With a strong academic foundation, I have hands-on experience working with langu
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubenmuqui&show_icons=true&theme=visual_studio_code" alt="Ruben's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmuqui&layout=compact&theme=visual_studio_code" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=github.com/rubenmuqui&show_icons=true&theme=visual_studio_code" alt="Ruben's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/rubenmuqui&layout=compact&theme=visual_studio_code" alt="Top Langs" height="180" />
 </p>
 
 ---

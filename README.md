@@ -22,12 +22,11 @@ With a strong academic foundation, I have hands-on experience working with langu
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rubenmuqui&show_icons=true&theme=visual_studio_code&v=2" alt="Ruben's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rubenmuqui&layout=compact&theme=visual_studio_code&v=2" alt="Top Langs" height="180" />
-</p>
+- 💻 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=rubenmuqui&color=blue&style=flat-square)
+- 🚀 **Contributions:** ![Contributions](https://img.shields.io/github/contributors-anvil/rubenmuqui?color=green&style=flat-square) 
+- 🛠️ **Account Status:** ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 ---
 

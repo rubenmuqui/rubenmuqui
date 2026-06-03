@@ -25,7 +25,7 @@ With a strong academic foundation, I have hands-on experience working with langu
 ### 📊 GitHub Metrics
 
 - 💻 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=rubenmuqui&color=blue&style=flat-square)
-- 🚀 **Contributions:** ![Contributions](https://img.shields.io/github/contributors-anvil/rubenmuqui?color=green&style=flat-square) 
+- 👥 **Followers:** ![Followers](https://img.shields.io/github/followers/rubenmuqui?label=Followers&style=flat-square&color=success)
 - 🛠️ **Account Status:** ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 ---
@@ -35,3 +35,9 @@ With a strong academic foundation, I have hands-on experience working with langu
 Let's talk about software engineering, architecture, or potential opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-mu%C3%B1oz-quir%C3%B3s-a5b9a7396/)
+
+---
+
+### 💬 Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)

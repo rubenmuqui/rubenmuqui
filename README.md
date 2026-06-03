@@ -22,11 +22,13 @@ With a strong academic foundation, I have hands-on experience working with langu
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Trophies
 
-- 💻 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=rubenmuqui&color=blue&style=flat-square)
-- 👥 **Followers:** ![Followers](https://img.shields.io/github/followers/rubenmuqui?label=Followers&style=flat-square&color=success)
-- 🛠️ **Account Status:** ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=rubenmuqui&theme=onedark&column=4" alt="Ruben's Trophies" />
+  </a>
+</p>
 
 ---
 

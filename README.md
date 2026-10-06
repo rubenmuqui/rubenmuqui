@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Engineering Student & Software Engineer Enthusiast
 
-I am a Computer Engineering student entering my final year this September. I am deeply passionate about **Software Architecture**, clean code, and building scalable **Full-Stack applications**. I love bridging academic theory with solid, real-world development practices.
+I am a Computer Engineering student in my final year. I am deeply passionate about **Software Architecture**, clean code, and building scalable **Full-Stack applications**. I love bridging academic theory with solid, real-world development practices.
 
 - 🔭 **Current Focus:** Deepening my knowledge in software design patterns and architectural styles.
 - 🌱 **Learning & Improving:** Always exploring new frameworks and DevOps practices to complete the full-stack lifecycle.
